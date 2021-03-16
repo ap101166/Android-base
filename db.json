@@ -1,5 +1,8 @@
 {
-    "db_ver": 1,
+    "aux": {
+        "db_ver": 1,
+        "rev_date": "15.03.21"
+    },
     "films": [
         {
             "image_url": "https://image.tmdb.org/t/p/w300/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
