@@ -1,5 +1,5 @@
 {
-    "database_version":3
+    "database_version":3,
     "films": [
         {
             "image_url": "https://image.tmdb.org/t/p/w300/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
